@@ -1,4 +1,5 @@
-## Hi there 👋
+## <h1 style="align-items:center"> Hi this is Gyan</h1>
+## 
 
 <!--
 **GyanSinghRaj/GyanSinghRaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
